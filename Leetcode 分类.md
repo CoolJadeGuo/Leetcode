@@ -6,7 +6,7 @@
 
 21 Merge Two Sorted Lists
 
-
+38 Count and Say
 
 ## Two Pointer ##
 
