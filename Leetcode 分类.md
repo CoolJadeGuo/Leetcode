@@ -2,21 +2,17 @@
 
 前200 ：57easy 104 medium 39 hard
 
-## Recursion ##
 
-21 Merge Two Sorted Lists
 
-38 Count and Say
+## Array ##
 
-## Two Pointer ##
-
-26 Remove Duplicates from Sorted Array
+918 Maximum Sum Circular Subarray
 
 
 
-## Search ##
+## Greedy 
 
-35 Search Insert Position
+316 Remove Duplicate Letters
 
 
 
@@ -26,23 +22,49 @@
 
 
 
-## Array ##
+## Recursion ##
 
-918 Maximum Sum Circular Subarray
+21 Merge Two Sorted Lists
 
+38 Count and Say
 
-
-## String ##
-
-819 Most Common Word
-
-## Two Pointer ##
+316 Remove Duplicate Letters
 
 
 
 ## Regular Expression 
 
 819 Most Common Word
+
+
+
+## Search ##
+
+35 Search Insert Position
+
+
+
+## String ##
+
+316 Remove Duplicate Letters
+
+771 Jewels and Stones
+
+819 Most Common Word
+
+
+
+## Stack
+
+316 Remove Duplicate Letters
+
+
+
+## Two Pointer
+
+26 Remove Duplicates from Sorted Array
+
+
 
 
 
