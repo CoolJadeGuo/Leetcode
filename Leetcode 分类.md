@@ -1,6 +1,6 @@
 # Leetcode 分类 #
 
-前200 ：57easy 104 medium 39 hard
+前200 ：57 easy 104 medium 39 hard
 
 
 
@@ -42,11 +42,19 @@
 
 35 Search Insert Position
 
-
+704 Binary Search
 
 ## String ##
 
+12 Integer to Roman
+
+13 Roman to Integer
+
 316 Remove Duplicate Letters
+
+539 Minimum Time Difference
+
+556 Next Great Element III
 
 771 Jewels and Stones
 
